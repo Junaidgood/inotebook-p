@@ -1,7 +1,12 @@
 import React from 'react'
+import { useContext,useEffect} from 'react'
 
-export const About = () => {
+  export const About = () => {
+
+  
   return (
-    <div>this is About</div>
+    <div>
+      this is About 
+    </div>
   )
 }
